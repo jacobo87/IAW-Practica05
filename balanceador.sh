@@ -6,6 +6,7 @@
 IPHTTPSERVER1=172.31.88.61
 IPHTTPSERVER2=172.31.90.13
 set -x
+cp -r /home/ubuntu/IAW-Practica05/* /home/ubuntu/
 # Actualizamos la lista de paquetes
 apt update
 apt upgrade -y
