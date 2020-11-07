@@ -10,16 +10,16 @@ El objetivo de esta práctica es crear una arquitectura de alta disponibilidad q
 
 La arquitectura estará formada por:
 
--     Un balanceador de carga, implementado con un Apache HTTP Server configurado como proxy inverso.
--     Una capa de front-end, formada por dos servidores web con Apache HTTP Server.
--     Una capa de back-end, formada por un servidor MySQL.
+- Un balanceador de carga, implementado con un Apache HTTP Server configurado como proxy inverso.
+- Una capa de front-end, formada por dos servidores web con Apache HTTP Server.
+- Una capa de back-end, formada por un servidor MySQL.
 
 Necesitará crear cuatro máquinas virtuales:
 
--     Balanceador.
--     Frontal Web 1.
--     Frontal Web 2.
--     Servidor de Base de Datos MySQL.
+- Balanceador.
+- Frontal Web 1.
+- Frontal Web 2.
+- Servidor de Base de Datos MySQL.
 
 - [Enlace repositorio con herramientas necesarias.][GitHub]
 
