@@ -66,7 +66,7 @@ Una vez aplicados los cambios reiniciamos el servicio de Apache:
 sudo /etc/init.d/apache2 restart
 ```
 ## Referencias
-- https://josejuansanchez.org/iaw/practica-05/index.html
+- [José Juan Sanchez IAW Práctica-05](https://josejuansanchez.org/iaw/practica-05/index.html)
 
 [GitHub]: https://github.com/jacobo87/IAW-Practica05
 [Repo]: https://github.com/josejuansanchez/iaw-practica-lamp
